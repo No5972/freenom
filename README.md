@@ -332,4 +332,4 @@ $ cd /data/wwwroot/freenom/ && php run
 ### 🥝  开源协议
 [MIT](https://opensource.org/licenses/mit-license.php)
 
-启用21.01.28
+启用21.01.28 1
